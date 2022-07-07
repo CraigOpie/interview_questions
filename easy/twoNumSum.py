@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# spaces not tabs
 """
     Write a function -> takes a non-empty array of integers and an integer of target sum.
     If any two numbers match the target, then return them in an array (any order).
